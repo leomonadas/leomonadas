@@ -1,7 +1,7 @@
 ## Oi, eu sou Léo, dev Full Stack em formação 👋🤓 
 
-#### PT/BR: Atualmente aprendendo CSS e Javascript 💻 Pronomes: ele/dele.
-#### EN: I’m currently learning CSS and Javascript 💻 Pronouns: he/him/his.
+#### - PT/BR: Atualmente aprendendo CSS e Javascript 💻 Pronomes: ele/dele. ✨
+#### - EN: I’m currently learning CSS and Javascript 💻 Pronouns: he/him/his. ✨
 
 <div align="center">
   <a href="https://github.com/leomonadas">
