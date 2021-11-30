@@ -1,14 +1,7 @@
-### Oi, eu sou o Léo 👋
+## Oi, eu sou Léo, dev Full Stack em formação 👋🤓 
 
-PT/BR
-- 🌱 Atualmente aprendendo CSS e Javascript.
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: o leomonadas é por causa do meu sobrenome Lima, então é leomonadas ~ limonadas.
-
-EN
-- 🌱 I’m currently learning CSS and Javascript.
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: the leomonadas nickname is because of my surname Lima (that means somenthing like lemon) so leomonadas ~ lemonade.
+#### PT/BR: Atualmente aprendendo CSS e Javascript 💻 Pronomes: ele/dele.
+#### EN: I’m currently learning CSS and Javascript 💻 Pronouns: he/him/his.
 
 <div align="center">
   <a href="https://github.com/leomonadas">
