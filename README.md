@@ -3,7 +3,7 @@
 PT/BR
 - 🌱 Atualmente aprendendo CSS e Javascript.
 - 😄 Pronomes: ele/dele
-- ⚡ Fato curioso: o leomonadas é por causa do meu sobrenome Lima, então é leomonadas ~ limonadas.
+- ⚡ Fun fact: o leomonadas é por causa do meu sobrenome Lima, então é leomonadas ~ limonadas.
 
 EN
 - 🌱 I’m currently learning CSS and Javascript.
