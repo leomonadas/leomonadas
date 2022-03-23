@@ -1,10 +1,11 @@
-# 👋  Oi, eu sou Léo 
+# <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4709j2s1ftzc0llzlpj62skky2a01d8kud7hpwh7yh&rid=giphy.gif&ct=s" width="75" height="75"> Oi, sou o Léo
+  
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor Front-end em formação e estudante de UX Design.
 
-&#8594; Formado em Engenharia Civil pela Universidade Federal do Cariri.
+&#8594; Formado em Engenharia Civil pela Universidade Federal do Cariri - UFCA.
 <br>
-&#8594; Atualmente estudando Javascript, React e MySQL. 
+&#8594; Atualmente estudando Javascript e React.
 <br>
 &#8594; Estudando o curso de UX Design oferecido pelo Google na plataforma Coursera. 
 <br>
@@ -29,8 +30,8 @@ Desenvolvedor Front-end em formação e estudante de UX Design.
 ## 📱 Contato  
 <div>
   <a href="https://www.linkedin.com/in/leonardo-alves-a9625bb8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonardokennedyalvesdelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/leomonadas"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/leomonadas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:leonardokennedyalvesdelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
