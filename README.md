@@ -1,14 +1,7 @@
-# <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4709j2s1ftzc0llzlpj62skky2a01d8kud7hpwh7yh&rid=giphy.gif&ct=s" width="75" height="75"> Oi, sou o Léo
+# Oi, sou o Léo
   
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor Front-end em formação e estudante de UX Design.
-
-&#8594; Formado em Engenharia Civil pela Universidade Federal do Cariri - UFCA.
-<br>
-&#8594; Atualmente estudando Javascript e React.
-<br>
-&#8594; Estudando o curso de UX Design oferecido pelo Google na plataforma Coursera. 
-<br>
 
 ## 📊 Estatísticas 
  
