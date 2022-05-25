@@ -3,15 +3,16 @@
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor Front-end em formação e estudante de UX Design.
 
-## 📊 Estatísticas 
+<!-- ## 📊 Estatísticas 
  
 <div align="center">
   <a href="https://github.com/leomonadas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leomonadas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomonadas&layout=compact&langs_count=7&theme=aura"/>
-</div>
+</div> -->
  
 ## 📚 Conhecimentos
+<div>
   <img align="center" alt="leomonadas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="leomonadas-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="leomonadas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,8 +24,8 @@ Desenvolvedor Front-end em formação e estudante de UX Design.
   <img align="center" alt="leomonadas-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="leomonadas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="leomonadas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</div>
                                                                                                                                                       
-  
 ## 📱 Contato  
 <div>
   <a href="https://www.linkedin.com/in/leomonadas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
