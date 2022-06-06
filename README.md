@@ -3,13 +3,13 @@
 #### 💻 Pronomes: ele/dele. 
 Desenvolvedor Front-end em formação e estudante de UX Design.
 
-<!-- ## 📊 Estatísticas 
+## 📊 Estatísticas 
  
 <div align="center">
   <a href="https://github.com/leomonadas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leomonadas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomonadas&layout=compact&langs_count=7&theme=aura"/>
-</div> -->
+</div>
  
 ## 📚 Conhecimentos
 <div>
