@@ -1,8 +1,8 @@
 # Oi, sou o Léo
   
 #### 💻 Pronomes: ele/dele. 
-- Desenvolvedor Front-end em formação e estudante de UX Design.
-- Atualmente estou estudando Angular, TypeScript, PHP e Wordpress.
+- Desenvolvedor Front-end e estudante de UX Design.
+- Atualmente estou estudando PHP, JavaScript e Java.
 
 ## 📊 Estatísticas 
  
